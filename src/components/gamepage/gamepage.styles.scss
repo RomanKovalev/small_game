@@ -1,0 +1,12 @@
+.gamepage {
+    width: 100%;
+    border: 1px solid #000;
+    margin: 0 auto;
+    padding: 10px;;
+}
+
+.gamepage-wrapper {
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+}

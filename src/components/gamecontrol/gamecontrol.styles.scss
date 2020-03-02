@@ -1,0 +1,40 @@
+.game-control {
+  padding: 10px 0px;
+
+  select {
+    margin: 5px;
+    padding: 10px 10px;
+    width: 210px;
+    border-radius: 5px;
+    color: #8e9ea3;
+    font-size: 16px;
+
+    option {
+      color: #ccc;
+    }
+  }
+
+  input {
+    margin: 5px;
+    padding: 10px 10px;
+    border-radius: 5px;
+    border: 0;
+    background: none;
+    background-color: #f3f3f3;
+    box-shadow: none;
+    font-size: 16px;
+    color: #757575;
+  }
+
+  button {
+    margin: 5px;
+    padding: 10px 0;
+    border-radius: 5px;
+    width: 125px;
+    box-shadow: none;
+    border: 0;
+    background-color: #7B8D93;
+    color: #fff;
+    font-size: 16px;
+  }
+}
