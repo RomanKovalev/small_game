@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/small_game/static/css/main.7dc68ecb.chunk.css",
+    "main.js": "/small_game/static/js/main.821ee388.chunk.js",
+    "main.js.map": "/small_game/static/js/main.821ee388.chunk.js.map",
+    "runtime-main.js": "/small_game/static/js/runtime-main.3bc56ce4.js",
+    "runtime-main.js.map": "/small_game/static/js/runtime-main.3bc56ce4.js.map",
+    "static/js/2.ca4cabc5.chunk.js": "/small_game/static/js/2.ca4cabc5.chunk.js",
+    "static/js/2.ca4cabc5.chunk.js.map": "/small_game/static/js/2.ca4cabc5.chunk.js.map",
+    "index.html": "/small_game/index.html",
+    "precache-manifest.08facf0080c8e697a5fa620fc1b293ca.js": "/small_game/precache-manifest.08facf0080c8e697a5fa620fc1b293ca.js",
+    "service-worker.js": "/small_game/service-worker.js",
+    "static/css/main.7dc68ecb.chunk.css.map": "/small_game/static/css/main.7dc68ecb.chunk.css.map",
+    "static/js/2.ca4cabc5.chunk.js.LICENSE.txt": "/small_game/static/js/2.ca4cabc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bc56ce4.js",
+    "static/js/2.ca4cabc5.chunk.js",
+    "static/css/main.7dc68ecb.chunk.css",
+    "static/js/main.821ee388.chunk.js"
+  ]
+}
